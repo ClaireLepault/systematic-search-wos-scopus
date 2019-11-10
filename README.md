@@ -11,7 +11,7 @@ There are three associated IPython notebooks:
 
 * [2_Export](2_Export.ipynb): Covers the application of advanced search on Web of Science and Scopus and proposes a method for storing and merging databases resulting respectively from the websites.
 
-* [3_First_processing](3_First_processing.ipynb): Includes the merge of Scopus and Web of Science databases and some text mining on titles, abstracts and authors keywords to visualize years of projection and coutries studies inside the final database. To access online the graphs, go on this [page] (https://nbviewer.jupyter.org/github/ClaireLepault/systematic-search-wos-scopus/blob/master/3_First_processing.ipynb) because Github doesn’t show interactive graphs as these ones created with the plotly library
+* [3_First_processing](3_First_processing.ipynb): Includes the merge of Scopus and Web of Science databases and some text mining on titles, abstracts and authors keywords to visualize years of projection and coutries studies inside the final database. To access online the graphs, you can use the nbviewer from Jupyter on this [page](https://nbviewer.jupyter.org/github/ClaireLepault/systematic-search-wos-scopus/blob/master/3_First_processing.ipynb) because Github doesn’t show interactive graphs as these ones created with the plotly library
 
 To applicate the systematic search techniques, the following equations have been used on November 6th, 2019: 
 
